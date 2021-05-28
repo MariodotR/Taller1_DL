@@ -2,7 +2,7 @@
 
 Entrega del taller 1 del curso de deep learning junto a mis compañeros Maximiliano R. y Hugo R. Investigamos sobre el uso de la Focal Loss en problemas desbalanceados y una competenciá de predicción del valor de casas incluyendo imágenes.
 
-Video:
+Video:  https://youtu.be/i11i7AFoMFc
 
 
 
