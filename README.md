@@ -1,3 +1,14 @@
+
+
+Entrega del taller 1 del curso de deep learning junto a mis compañeros Maximiliano R. y Hugo R. Investigamos sobre el uso de la Focal Loss en problemas desbalanceados y una competenciá de predicción del valor de casas incluyendo imágenes.
+
+Video:
+
+
+
+
+
+
 # Conda environment with environment.yml
 
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb)
